@@ -7,6 +7,6 @@ Fully functional tic tac toe game with win, lose and draw conditions, a sassy AI
 - function definitions
 - references
 - rand() library
-- AI that selects randomnly from available squares
+- AI that selects randomly from available squares
 - vectors
 - plenty of headaches
